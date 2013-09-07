@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Coxinha</string>
     <string name="create_order_button">Create Order</string>
+    <string name="order_label">Order</string>
 </resources>
