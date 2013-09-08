@@ -14,7 +14,7 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     android:text="@string/create_order_button"
-    android:onClick="createOrder"
+    android:onClick="openCreateOrder"
     />
 </LinearLayout>
 

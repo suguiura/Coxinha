@@ -27,7 +27,7 @@ public class MainActivity extends Activity
         listView.setAdapter(adapter);
     }
 
-    public void createOrder(View view) {
+    public void openCreateOrder(View view) {
         Intent intent = new Intent(this, CreateOrderActivity.class);
         
         startActivityForResult(intent, ACTIVITY_CREATE_ORDER);
